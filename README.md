@@ -7,10 +7,10 @@ In this project, a method based on Gaussian Mixture Model (GMM) is introduced fo
 Repo:
 
 ## Objective:
-1.Detecting the moving object in videos recorded by a stationary camera
-2.Segmentation between foreground and background
-3.Adaptive in working conditions
-4.Not costly develop
+1. Detecting the moving object in videos recorded by a stationary camera
+2. Segmentation between foreground and background
+3. Adaptive in working conditions
+4. Not costly develop
 
 ## Dataset
 PETS 2009 (ftp://pets.rdg.ac.uk)
@@ -38,6 +38,6 @@ Visually demo is shown in this blog: https://tianchaohuo.github.io/2019/07/12/Ch
 
 
 ## References
-[1] C. Stauffer and W. E. L. Grimson, "Adaptive background mixture models for real-time tracking," in 1999, . DOI: 10.1109/CVPR.1999.784637.
-[2] H. Shih-Shinh, https://www.youtube.com/watch?v=g_ve2txPkSc, 2018.
+[1] C. Stauffer and W. E. L. Grimson, "Adaptive background mixture models for real-time tracking," in 1999, . DOI: 10.1109/CVPR.1999.784637.</br>
+[2] H. Shih-Shinh, https://www.youtube.com/watch?v=g_ve2txPkSc, 2018.</br>
 [3] Swapnil Das, https://github.com/swapnil96
